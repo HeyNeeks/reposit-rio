@@ -8,10 +8,10 @@ body {
 
 header {
       background:  black;
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px #660000;
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: #990000;
 }
 
 .chamada {
